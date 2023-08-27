@@ -124,6 +124,12 @@ h3 {
    transition: 0.2s;
 }
 
+.img-project img{
+    width: 600px;
+    height: 460px;
+    justify-self: unset;
+}
+
 .footer {
     margin-top: 20px;
     margin-bottom: 10px;
